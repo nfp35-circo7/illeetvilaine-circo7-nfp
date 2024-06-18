@@ -1,21 +1,21 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez GUIVARC'H Nicolas !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="GUIVARC'H Nicolas candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
 
     <div class="buttons">
       <div>
@@ -73,11 +73,11 @@ order: 0
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="GUIVARC'H Nicolas candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
       </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>GUIVARC'H Nicolas</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
@@ -100,7 +100,7 @@ order: 0
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="GUIVARC'H Nicolas suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
       </div>
 
       <div>
@@ -201,4 +201,4 @@ order: 0
 
 <section class="footer">
     Candidature de la X circonscription de Y.
-</section>
+</section> 
