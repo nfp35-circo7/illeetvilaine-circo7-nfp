@@ -9,13 +9,13 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez GUIVARC'H Nicolas !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Nicolas Guivarc'h !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="GUIVARC'H Nicolas candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Nicolas Guivarc'h candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
 
     <div class="buttons">
       <div>
@@ -73,11 +73,11 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="GUIVARC'H Nicolas candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Nicolas Guivarc'h candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
       </div>
 
       <div>
-        <h2>GUIVARC'H Nicolas</h2>
+        <h2>Nicolas GUIVARC'H</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
@@ -100,11 +100,11 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="GUIVARC'H Nicolas suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Camille Tap suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Camille TAP - suppléante</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
